@@ -22,5 +22,4 @@ and streams live data to a Node-RED dashboard over MQTT.
 Flex sensor → ESP32 reads analog value → maps to servo angle → 
 publishes to HiveMQ via MQTT → Node-RED receives and displays on gauge.
 
-## Dashboard screenshot
-[add your screenshot here]
+
